@@ -1,5 +1,5 @@
 def main():
-    print("Welcome to your Starter App, Tony!")
-
+    """Entry point for all new projects."""
+    pass
 if __name__ == "__main__":
-    main()  
+    main()
